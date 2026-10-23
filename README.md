@@ -1,4 +1,4 @@
 # Demo
 This is my first git repository.
 <br>
-Author: Deepak Dey
+Author: Deepak Dey(student)
